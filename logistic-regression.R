@@ -1,7 +1,4 @@
-#Data 630 Machine Learning
-#Assignment 2
-#Script by Karishma Mathur
-#Professor Bati
+#This code will explore the spambase dataset then create a logistic regression model
 
 #Set working directory to location of file
 #Import spambase file as the dataset and view
